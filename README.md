@@ -1,3 +1,8 @@
+# Deploy
+http://mike-shop.s3-website-eu-west-1.amazonaws.com/ - S3 bucket, returns 404
+https://d3c8okidtiq7ie.cloudfront.net/ - CloudFront
+
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
